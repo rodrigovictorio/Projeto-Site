@@ -45,6 +45,10 @@ p a:hover {
     color: mediumspringgreen;
 }
 
+iframe {
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+}
+
 .small-img {
     width: 125px;
 }
